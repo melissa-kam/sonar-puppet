@@ -1,1 +1,1 @@
-include sonar
+include python_sonar
